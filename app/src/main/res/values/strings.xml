@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">activi1</string>
+    <string name="nama">Febyan</string>
+    <string name="no_hp">0822819218</string>
+    <string name="tombol">Scan QR</string>
+    <string name="text1">HOGWARTS</string>
+    <string name="text2">WELCOME TO HOGWARTS</string>
+    <string name="button1">Button 1</string>
+    <string name="button2">Button 2</string>
+    <string name="buttonleft">Left</string>
+    <string name="buttonright">right</string>
+    <string name="parent">Match parent</string>
+
+</resources>
