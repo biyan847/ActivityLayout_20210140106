@@ -20,7 +20,7 @@
         android:layout_gravity="top|left"
         android:layout_marginLeft="20dp"
         android:layout_marginTop="20dp"
-        app:srcCompat="@drawable/img_4"
+        app:srcCompat="@drawable/logo"
 
 
         />
